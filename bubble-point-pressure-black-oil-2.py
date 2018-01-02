@@ -8,7 +8,7 @@ gas oil (Rsp) is in standard cubic feet per stock tank barrel scf/STB
 gravity of the stock tank oil, bubble point pressure is in psia."""
 
 __author__ = "Wesley C. Williams"
-__copyright__ = "Copyright 2007, Wesley C. Williams"
+__copyright__ = "Copyright 2018, Wesley C. Williams"
 __credits__ = ["Wesley C. Williams"]
 __license__ = "GPL"
 __version__ = "1.0.1"

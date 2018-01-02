@@ -9,7 +9,7 @@ gravity of the seperator gas, bubble point pressure is in psia,
 this equation is accurate to within 15% for temperatures up to 325F"""
 
 __author__ = "Wesley C. Williams"
-__copyright__ = "Copyright 2007, Wesley C. Williams"
+__copyright__ = "Copyright 2018, Wesley C. Williams"
 __credits__ = ["Wesley C. Williams"]
 __license__ = "GPL"
 __version__ = "1.0.1"
