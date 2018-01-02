@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-"""blackoil.py: A black oil calculator from William D. McCain, Jr.
-This is for finding the bubble-point pressure-solution gas-oil ratio
+"""bubble-point-pressure-black-oil.py: from William D. McCain, Jr.
+This is for finding the bubble-point pressure-solution gas-oil ratio of black oil
 from Appendix B-37 and B-38 Equations, temperature is in F, Solution
 gas oil (Rs) is in standard cubic feet per stock tank barrel scf/STB
 , API is the API gravity of the stock tank oil, SGg is the specific
