@@ -17,10 +17,10 @@ __maintainer__ = "Wesley C. Williams"
 __email__ = "wcwmit@gmail.com"
 __status__ = "Production"
 
-Rs = input("Input Solution Gas Oil Ratio (Rs) in SCF/STB: ")
-SGg = input("Input Specific Gravity of Seperator Gas: ")
-T = input("Input Reservoir Temperature in F: ")
-API = input("Input API gravity of Stock Tank Oil: ")
+Rs = float(input("Input Solution Gas Oil Ratio (Rs) in SCF/STB: "))
+SGg = float(input("Input Specific Gravity of Seperator Gas: "))
+T = float(input("Input Reservoir Temperature in F: "))
+API = float(input("Input API gravity of Stock Tank Oil: "))
 
 CNpb = (Rs/SGg)**0.83*10**(0.00091*T - 0.0125*API)
 pb = 18.2*(CNpb-1.4)
